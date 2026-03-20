@@ -1,6 +1,8 @@
 # Thamarai Industries — Full Stack Project
 ### தாமரை இன்டஸ்ட்ரீஸ்
 
+🌐 **Live Site:** [https://thamarai-industries.vercel.app](https://thamarai-industries.vercel.app)
+
 ---
 
 ## Project Structure
